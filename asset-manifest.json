@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "personal-finance/static/css/main.22b6e383.chunk.css",
-    "main.js": "personal-finance/static/js/main.01fd5389.chunk.js",
-    "main.js.map": "personal-finance/static/js/main.01fd5389.chunk.js.map",
-    "runtime-main.js": "personal-finance/static/js/runtime-main.cd7d13d4.js",
-    "runtime-main.js.map": "personal-finance/static/js/runtime-main.cd7d13d4.js.map",
-    "static/css/2.6cdabcef.chunk.css": "personal-finance/static/css/2.6cdabcef.chunk.css",
-    "static/js/2.2914f406.chunk.js": "personal-finance/static/js/2.2914f406.chunk.js",
-    "static/js/2.2914f406.chunk.js.map": "personal-finance/static/js/2.2914f406.chunk.js.map",
-    "index.html": "personal-finance/index.html",
-    "static/css/2.6cdabcef.chunk.css.map": "personal-finance/static/css/2.6cdabcef.chunk.css.map",
-    "static/css/main.22b6e383.chunk.css.map": "personal-finance/static/css/main.22b6e383.chunk.css.map",
-    "static/js/2.2914f406.chunk.js.LICENSE.txt": "personal-finance/static/js/2.2914f406.chunk.js.LICENSE.txt",
-    "static/media/App.css": "personal-finance/static/media/icons-20.cde033c5.eot"
+    "main.css": "/personal-finance/static/css/main.22b6e383.chunk.css",
+    "main.js": "/personal-finance/static/js/main.01fd5389.chunk.js",
+    "main.js.map": "/personal-finance/static/js/main.01fd5389.chunk.js.map",
+    "runtime-main.js": "/personal-finance/static/js/runtime-main.323b80de.js",
+    "runtime-main.js.map": "/personal-finance/static/js/runtime-main.323b80de.js.map",
+    "static/css/2.71258abb.chunk.css": "/personal-finance/static/css/2.71258abb.chunk.css",
+    "static/js/2.17c6e0e3.chunk.js": "/personal-finance/static/js/2.17c6e0e3.chunk.js",
+    "static/js/2.17c6e0e3.chunk.js.map": "/personal-finance/static/js/2.17c6e0e3.chunk.js.map",
+    "index.html": "/personal-finance/index.html",
+    "static/css/2.71258abb.chunk.css.map": "/personal-finance/static/css/2.71258abb.chunk.css.map",
+    "static/css/main.22b6e383.chunk.css.map": "/personal-finance/static/css/main.22b6e383.chunk.css.map",
+    "static/js/2.17c6e0e3.chunk.js.LICENSE.txt": "/personal-finance/static/js/2.17c6e0e3.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/personal-finance/static/media/icons-20.cde033c5.eot"
   },
   "entrypoints": [
-    "static/js/runtime-main.cd7d13d4.js",
-    "static/css/2.6cdabcef.chunk.css",
-    "static/js/2.2914f406.chunk.js",
+    "static/js/runtime-main.323b80de.js",
+    "static/css/2.71258abb.chunk.css",
+    "static/js/2.17c6e0e3.chunk.js",
     "static/css/main.22b6e383.chunk.css",
     "static/js/main.01fd5389.chunk.js"
   ]
