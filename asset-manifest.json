@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/personal-finance/static/css/main.c5b35688.chunk.css",
-    "main.js": "/personal-finance/static/js/main.de3b8a91.chunk.js",
-    "main.js.map": "/personal-finance/static/js/main.de3b8a91.chunk.js.map",
+    "main.js": "/personal-finance/static/js/main.37df59e1.chunk.js",
+    "main.js.map": "/personal-finance/static/js/main.37df59e1.chunk.js.map",
     "runtime-main.js": "/personal-finance/static/js/runtime-main.323b80de.js",
     "runtime-main.js.map": "/personal-finance/static/js/runtime-main.323b80de.js.map",
     "static/css/2.9cf1e6da.chunk.css": "/personal-finance/static/css/2.9cf1e6da.chunk.css",
-    "static/js/2.e12f9717.chunk.js": "/personal-finance/static/js/2.e12f9717.chunk.js",
-    "static/js/2.e12f9717.chunk.js.map": "/personal-finance/static/js/2.e12f9717.chunk.js.map",
+    "static/js/2.e4d44ecd.chunk.js": "/personal-finance/static/js/2.e4d44ecd.chunk.js",
+    "static/js/2.e4d44ecd.chunk.js.map": "/personal-finance/static/js/2.e4d44ecd.chunk.js.map",
     "index.html": "/personal-finance/index.html",
     "static/css/2.9cf1e6da.chunk.css.map": "/personal-finance/static/css/2.9cf1e6da.chunk.css.map",
     "static/css/main.c5b35688.chunk.css.map": "/personal-finance/static/css/main.c5b35688.chunk.css.map",
-    "static/js/2.e12f9717.chunk.js.LICENSE.txt": "/personal-finance/static/js/2.e12f9717.chunk.js.LICENSE.txt",
+    "static/js/2.e4d44ecd.chunk.js.LICENSE.txt": "/personal-finance/static/js/2.e4d44ecd.chunk.js.LICENSE.txt",
     "static/media/App.css": "/personal-finance/static/media/icons-20.cde033c5.eot"
   },
   "entrypoints": [
     "static/js/runtime-main.323b80de.js",
     "static/css/2.9cf1e6da.chunk.css",
-    "static/js/2.e12f9717.chunk.js",
+    "static/js/2.e4d44ecd.chunk.js",
     "static/css/main.c5b35688.chunk.css",
-    "static/js/main.de3b8a91.chunk.js"
+    "static/js/main.37df59e1.chunk.js"
   ]
 }
