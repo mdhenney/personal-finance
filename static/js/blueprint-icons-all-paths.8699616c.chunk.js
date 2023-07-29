@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkpersonal_finance_app=self.webpackChunkpersonal_finance_app||[]).push([[104],{2530:function(n,t,e){e.r(t),e.d(t,{IconSvgPaths16:function(){return c},IconSvgPaths20:function(){return o},getIconPaths:function(){return a},iconNameToPathsRecordKey:function(){return f}});var r=e(5530),c=e(9382),o=e(8554),u=e(6523);function a(n,t){var e=(0,r.Ho)(n);return t===u.J.STANDARD?c[e]:o[e]}function f(n){return(0,r.Ho)(n)}}}]);
+//# sourceMappingURL=blueprint-icons-all-paths.8699616c.chunk.js.map

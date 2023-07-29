@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkpersonal_finance_app=self.webpackChunkpersonal_finance_app||[]).push([[883],{9883:function(n,e,t){t.r(e),t.d(e,{allPathsLoader:function(){return r}});var a=t(5971),r=function(n,e){return(0,a.mG)(void 0,void 0,void 0,(function(){return(0,a.Jh)(this,(function(a){switch(a.label){case 0:return[4,Promise.all([t.e(680),t.e(500),t.e(104)]).then(t.bind(t,2530))];case 1:return[2,(0,a.sent().getIconPaths)(n,e)]}}))}))}}}]);
+//# sourceMappingURL=883.c5b03547.chunk.js.map

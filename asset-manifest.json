@@ -1,24 +1,33 @@
 {
   "files": {
-    "main.css": "/personal-finance/static/css/main.c5b35688.chunk.css",
-    "main.js": "/personal-finance/static/js/main.37df59e1.chunk.js",
-    "main.js.map": "/personal-finance/static/js/main.37df59e1.chunk.js.map",
-    "runtime-main.js": "/personal-finance/static/js/runtime-main.323b80de.js",
-    "runtime-main.js.map": "/personal-finance/static/js/runtime-main.323b80de.js.map",
-    "static/css/2.9cf1e6da.chunk.css": "/personal-finance/static/css/2.9cf1e6da.chunk.css",
-    "static/js/2.e4d44ecd.chunk.js": "/personal-finance/static/js/2.e4d44ecd.chunk.js",
-    "static/js/2.e4d44ecd.chunk.js.map": "/personal-finance/static/js/2.e4d44ecd.chunk.js.map",
+    "main.css": "/personal-finance/static/css/main.b7358a2b.css",
+    "main.js": "/personal-finance/static/js/main.5f5f8d08.js",
+    "static/js/883.c5b03547.chunk.js": "/personal-finance/static/js/883.c5b03547.chunk.js",
+    "static/js/224.5d5bc128.chunk.js": "/personal-finance/static/js/224.5d5bc128.chunk.js",
+    "blueprint-icons-all-paths.js": "/personal-finance/static/js/blueprint-icons-all-paths.8699616c.chunk.js",
+    "blueprint-icons-16px-paths.js": "/personal-finance/static/js/blueprint-icons-16px-paths.0d258556.chunk.js",
+    "blueprint-icons-20px-paths.js": "/personal-finance/static/js/blueprint-icons-20px-paths.0ef7dd12.chunk.js",
+    "static/media/blueprint-icons-20.svg?": "/personal-finance/static/media/blueprint-icons-20.69e09533623b64863cf5.svg",
+    "static/media/blueprint-icons-16.svg?": "/personal-finance/static/media/blueprint-icons-16.928936b25a7f631d44d6.svg",
+    "static/media/blueprint-icons-20.eot?": "/personal-finance/static/media/blueprint-icons-20.7a9cd56e4f1468be3c57.eot",
+    "static/media/blueprint-icons-20.ttf?": "/personal-finance/static/media/blueprint-icons-20.cf3d85353267b1034956.ttf",
+    "static/media/blueprint-icons-16.eot?": "/personal-finance/static/media/blueprint-icons-16.2669cc26a3ca40496c1a.eot",
+    "static/media/blueprint-icons-16.ttf?": "/personal-finance/static/media/blueprint-icons-16.fe34be7b52fe280ae6fc.ttf",
+    "static/media/blueprint-icons-20.woff?": "/personal-finance/static/media/blueprint-icons-20.6bafdea7cca3b5a2de42.woff",
+    "static/media/blueprint-icons-16.woff?": "/personal-finance/static/media/blueprint-icons-16.6908f1544dc20870cd80.woff",
+    "static/media/blueprint-icons-20.woff2?": "/personal-finance/static/media/blueprint-icons-20.c20dc60373b0a5fbfa7f.woff2",
+    "static/media/blueprint-icons-16.woff2?": "/personal-finance/static/media/blueprint-icons-16.5d3be7e91ef0bd98ba43.woff2",
     "index.html": "/personal-finance/index.html",
-    "static/css/2.9cf1e6da.chunk.css.map": "/personal-finance/static/css/2.9cf1e6da.chunk.css.map",
-    "static/css/main.c5b35688.chunk.css.map": "/personal-finance/static/css/main.c5b35688.chunk.css.map",
-    "static/js/2.e4d44ecd.chunk.js.LICENSE.txt": "/personal-finance/static/js/2.e4d44ecd.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/personal-finance/static/media/icons-20.cde033c5.eot"
+    "main.b7358a2b.css.map": "/personal-finance/static/css/main.b7358a2b.css.map",
+    "main.5f5f8d08.js.map": "/personal-finance/static/js/main.5f5f8d08.js.map",
+    "883.c5b03547.chunk.js.map": "/personal-finance/static/js/883.c5b03547.chunk.js.map",
+    "224.5d5bc128.chunk.js.map": "/personal-finance/static/js/224.5d5bc128.chunk.js.map",
+    "blueprint-icons-all-paths.8699616c.chunk.js.map": "/personal-finance/static/js/blueprint-icons-all-paths.8699616c.chunk.js.map",
+    "blueprint-icons-16px-paths.0d258556.chunk.js.map": "/personal-finance/static/js/blueprint-icons-16px-paths.0d258556.chunk.js.map",
+    "blueprint-icons-20px-paths.0ef7dd12.chunk.js.map": "/personal-finance/static/js/blueprint-icons-20px-paths.0ef7dd12.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.323b80de.js",
-    "static/css/2.9cf1e6da.chunk.css",
-    "static/js/2.e4d44ecd.chunk.js",
-    "static/css/main.c5b35688.chunk.css",
-    "static/js/main.37df59e1.chunk.js"
+    "static/css/main.b7358a2b.css",
+    "static/js/main.5f5f8d08.js"
   ]
 }
