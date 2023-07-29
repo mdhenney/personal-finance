@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/personal-finance/static/css/main.b7358a2b.css",
-    "main.js": "/personal-finance/static/js/main.5f5f8d08.js",
+    "main.js": "/personal-finance/static/js/main.65785504.js",
     "static/js/883.c5b03547.chunk.js": "/personal-finance/static/js/883.c5b03547.chunk.js",
     "static/js/224.5d5bc128.chunk.js": "/personal-finance/static/js/224.5d5bc128.chunk.js",
     "blueprint-icons-all-paths.js": "/personal-finance/static/js/blueprint-icons-all-paths.8699616c.chunk.js",
@@ -19,7 +19,7 @@
     "static/media/blueprint-icons-16.woff2?": "/personal-finance/static/media/blueprint-icons-16.5d3be7e91ef0bd98ba43.woff2",
     "index.html": "/personal-finance/index.html",
     "main.b7358a2b.css.map": "/personal-finance/static/css/main.b7358a2b.css.map",
-    "main.5f5f8d08.js.map": "/personal-finance/static/js/main.5f5f8d08.js.map",
+    "main.65785504.js.map": "/personal-finance/static/js/main.65785504.js.map",
     "883.c5b03547.chunk.js.map": "/personal-finance/static/js/883.c5b03547.chunk.js.map",
     "224.5d5bc128.chunk.js.map": "/personal-finance/static/js/224.5d5bc128.chunk.js.map",
     "blueprint-icons-all-paths.8699616c.chunk.js.map": "/personal-finance/static/js/blueprint-icons-all-paths.8699616c.chunk.js.map",
@@ -28,6 +28,6 @@
   },
   "entrypoints": [
     "static/css/main.b7358a2b.css",
-    "static/js/main.5f5f8d08.js"
+    "static/js/main.65785504.js"
   ]
 }
