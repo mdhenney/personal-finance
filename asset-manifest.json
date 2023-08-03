@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/personal-finance/static/css/main.b7358a2b.css",
-    "main.js": "/personal-finance/static/js/main.1e454851.js",
+    "main.css": "/personal-finance/static/css/main.f8d5b9af.css",
+    "main.js": "/personal-finance/static/js/main.a46bd86a.js",
     "static/js/883.c5b03547.chunk.js": "/personal-finance/static/js/883.c5b03547.chunk.js",
     "static/js/224.5d5bc128.chunk.js": "/personal-finance/static/js/224.5d5bc128.chunk.js",
     "blueprint-icons-all-paths.js": "/personal-finance/static/js/blueprint-icons-all-paths.8699616c.chunk.js",
@@ -18,8 +18,8 @@
     "static/media/blueprint-icons-20.woff2?": "/personal-finance/static/media/blueprint-icons-20.c20dc60373b0a5fbfa7f.woff2",
     "static/media/blueprint-icons-16.woff2?": "/personal-finance/static/media/blueprint-icons-16.5d3be7e91ef0bd98ba43.woff2",
     "index.html": "/personal-finance/index.html",
-    "main.b7358a2b.css.map": "/personal-finance/static/css/main.b7358a2b.css.map",
-    "main.1e454851.js.map": "/personal-finance/static/js/main.1e454851.js.map",
+    "main.f8d5b9af.css.map": "/personal-finance/static/css/main.f8d5b9af.css.map",
+    "main.a46bd86a.js.map": "/personal-finance/static/js/main.a46bd86a.js.map",
     "883.c5b03547.chunk.js.map": "/personal-finance/static/js/883.c5b03547.chunk.js.map",
     "224.5d5bc128.chunk.js.map": "/personal-finance/static/js/224.5d5bc128.chunk.js.map",
     "blueprint-icons-all-paths.8699616c.chunk.js.map": "/personal-finance/static/js/blueprint-icons-all-paths.8699616c.chunk.js.map",
@@ -27,7 +27,7 @@
     "blueprint-icons-20px-paths.0ef7dd12.chunk.js.map": "/personal-finance/static/js/blueprint-icons-20px-paths.0ef7dd12.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.b7358a2b.css",
-    "static/js/main.1e454851.js"
+    "static/css/main.f8d5b9af.css",
+    "static/js/main.a46bd86a.js"
   ]
 }
